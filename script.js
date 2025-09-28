@@ -1,4 +1,4 @@
-document.title = "Home | Schoology"
+document.title = "Infinite Campus"
 
 var link = document.querySelector("link[rel~='icon']");
 if (!link) {
@@ -6,7 +6,7 @@ if (!link) {
     link.rel = 'icon';
     document.head.appendChild(link);
 }
-link.href = 'https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico';
+link.href = 'https://waukeganil.infinitecampus.org/favicon.ico';
 
 var HMR3_optionText = [
     "Please Choose", 
