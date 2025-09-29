@@ -18,4 +18,5 @@ To access this file, you need to pay a small fee. This is for me to have a  reas
 This is cash only.
 
 # Credits
-@TrapjawwS for the original project, they created the basis and I seek to improve it.
+TrapjawwS for the original project, they created the basis, and I seek to improve it.
+Ethanobrien and the EmulatorJS Devs for the emulator.
