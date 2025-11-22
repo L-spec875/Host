@@ -25,7 +25,7 @@ var HMR3_optionText = [
 var HMR3_optionValue = [
     "#", 
     "customlink",
-    "https://cdn.jsdelivr.net/gh/L-spec875/Host@b09bfabe9484f8219f2a4106b78285b1c7e533a5/games/Eaglercraft%201.12.2.html",
+    "https://l-spec875.github.io/htmls.github.io/index.html",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@b09bfabe9484f8219f2a4106b78285b1c7e533a5/games/Pokemon%20Unbound%20(v2.1.1.1).zip",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@b09bfabe9484f8219f2a4106b78285b1c7e533a5/games/Pokemon%20GS%20Chronicles.zip",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@b09bfabe9484f8219f2a4106b78285b1c7e533a5/games/Pokemon%20-%20Emerald%20Version%20(USA%2C%20Europe).zip",
