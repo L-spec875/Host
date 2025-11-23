@@ -72,13 +72,12 @@ var HMR3_SEGAMS = [
 ]
 
 var HMR3_HTML = [
-     "EaglerCraft 1.12 WASM",
     
 
 ]
 
 var HMR3_Multifile = [
-
+"EaglerCraft 1.12 WASM",
 ]
 
 
