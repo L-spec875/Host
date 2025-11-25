@@ -74,13 +74,13 @@ var HMR3_SEGAMS = [
 ]
 
 var HMR3_HTML = [
-    
+"Bad Time Simulator",
 
 ]
 
 var HMR3_Multifile = [
 "EaglerCraft 1.12 WASM",
-"Bad Time Simulator",
+    
 ]
 
 
