@@ -20,7 +20,8 @@ var HMR3_optionText = [
     "New Super Mario Bros.",
     "Mario Kart DS",
     "Kirby & The Amazing Mirror",
-    "Kirby: Nightmare in Dreamland"
+    "Kirby: Nightmare in Dreamland",
+    "Bad Time Simulator"
 ];
 var HMR3_optionValue = [
     "#", 
@@ -35,6 +36,7 @@ var HMR3_optionValue = [
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@b09bfabe9484f8219f2a4106b78285b1c7e533a5/games/0168%20-%20Mario%20Kart%20DS%20(U)(SCZ).7z",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@b09bfabe9484f8219f2a4106b78285b1c7e533a5/games/Kirby%20%26%20The%20Amazing%20Mirror%20(USA).zip",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@b09bfabe9484f8219f2a4106b78285b1c7e533a5/games/Kirby%20-%20Nightmare%20in%20Dreamland%20(U)%20%5B!%5D.zip",
+    "https://l-spec875.github.io/html2.github.io/index.html",
     
     
 
@@ -78,6 +80,7 @@ var HMR3_HTML = [
 
 var HMR3_Multifile = [
 "EaglerCraft 1.12 WASM",
+"Bad Time Simulator",
 ]
 
 
