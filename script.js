@@ -42,7 +42,7 @@ var HMR3_optionValue = [
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@b09bfabe9484f8219f2a4106b78285b1c7e533a5/games/Kirby%20-%20Nightmare%20in%20Dreamland%20(U)%20%5B!%5D.zip",
     "https://l-spec875.github.io/html2.github.io/index.html",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@1ca1067c43d9f27e29783d60494e4e9af1dd4f29/games/SuperSmash.swf",
-    "https://cdn.jsdelivr.net/gh/L-spec875/Host@2500679c9504d49e6d7843f272e7b0fe06a36747/games/The%20Binding%20of%20Isaac.swf",
+    "https://l-spec875.github.io/htmls.github.io/The%20Binding%20of%20Isaac.swf",
     
     
 
