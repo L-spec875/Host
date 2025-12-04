@@ -24,7 +24,8 @@ var HMR3_optionText = [
     "Kirby: Nightmare in Dreamland",
     "Bad Time Simulator",
     "Super Smash Flash",
-    "The Binding Of Isaac"
+    "The Binding Of Isaac",
+    "Undertale Yellow"
 ];
 var HMR3_optionValue = [
     "#", 
@@ -43,6 +44,7 @@ var HMR3_optionValue = [
     "https://l-spec875.github.io/html2.github.io/index.html",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@1ca1067c43d9f27e29783d60494e4e9af1dd4f29/games/SuperSmash.swf",
     "https://l-spec875.github.io/htmls.github.io/The%20Binding%20of%20Isaac.swf",
+    "https://l-spec875.github.io/htmls.github.io/yellow.html",
     
     
 
@@ -87,6 +89,7 @@ var HMR3_HTML = [
 var HMR3_Multifile = [
 "EaglerCraft 1.12 WASM",
 "Bad Time Simulator",
+"Undertale Yellow",
 ]
 
 
