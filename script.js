@@ -25,7 +25,8 @@ var HMR3_optionText = [
     "Bad Time Simulator",
     "Super Smash Flash",
     "The Binding Of Isaac",
-    "Undertale Yellow"
+    "Undertale Yellow",
+    "Pokemon R.O.W.E"
 ];
 var HMR3_optionValue = [
     "#", 
@@ -45,6 +46,7 @@ var HMR3_optionValue = [
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@1ca1067c43d9f27e29783d60494e4e9af1dd4f29/games/SuperSmash.swf",
     "https://l-spec875.github.io/htmls.github.io/The%20Binding%20of%20Isaac.swf",
     "https://l-spec875.github.io/htmls.github.io/yellow.html",
+    "https://cdn.jsdelivr.net/gh/L-spec875/Host@df0eff7f7b0938c993dc1ace38decb1aaa4fbb4e/games/Pok%C3%A9mon%20R.O.W.E.%20(2.0.8.1).zip",
     
     
 
