@@ -28,7 +28,13 @@ var HMR3_optionText = [
     "Super Smash Flash",
     "The Binding Of Isaac",
     "Undertale Yellow",
-    "Pokemon R.O.W.E"
+    "Pokemon R.O.W.E",
+    "2048",
+    "Breaking the Bank",
+    "Stealing the Diamond",
+    "Escaping the Prison",
+    "Run 3",
+    
 ];
 var HMR3_optionValue = [
     "#", 
@@ -51,6 +57,12 @@ var HMR3_optionValue = [
     "https://l-spec875.github.io/htmls.github.io/The%20Binding%20of%20Isaac.swf",
     "https://l-spec875.github.io/htmls.github.io/yellow.html",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@df0eff7f7b0938c993dc1ace38decb1aaa4fbb4e/games/Pok%C3%A9mon%20R.O.W.E.%20(2.0.8.1).zip",
+    "https://cdn.jsdelivr.net/gh/L-spec875/Host@006bb55ac1ed9e814c139291c2943424711a25d1/games/2048.swf",
+    "https://cdn.jsdelivr.net/gh/L-spec875/Host@006bb55ac1ed9e814c139291c2943424711a25d1/games/HS%20breaking%20the%20bank.swf",
+    "https://cdn.jsdelivr.net/gh/L-spec875/Host@006bb55ac1ed9e814c139291c2943424711a25d1/games/Henry%20Stickmin%20Diamond.swf",
+    "https://cdn.jsdelivr.net/gh/L-spec875/Host@006bb55ac1ed9e814c139291c2943424711a25d1/games/escape%20the%20prison%20HS.swf",
+    "https://cdn.jsdelivr.net/gh/L-spec875/Host@006bb55ac1ed9e814c139291c2943424711a25d1/games/run3.swf",
+    
     
     
 
@@ -59,6 +71,11 @@ var HMR3_optionValue = [
 var flashgames = [
 "Super Smash Flash",
 "The Binding Of Isaac",
+"2048",
+"Breaking the Bank",
+"Stealing the Diamond",
+"Escaping the Prison",
+"Run 3",
 ]
 
 var HMR3_nds = [
