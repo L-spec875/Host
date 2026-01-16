@@ -35,6 +35,8 @@ var HMR3_optionText = [
     "Stealing the Diamond",
     "Escaping the Prison",
     "Run 3",
+    "Terraria",
+    "Celeste",
 ];
 
 var HMR3_optionValue = [
@@ -63,6 +65,8 @@ var HMR3_optionValue = [
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@006bb55ac1ed9e814c139291c2943424711a25d1/games/Henry%20Stickmin%20Diamond.swf",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@006bb55ac1ed9e814c139291c2943424711a25d1/games/escape%20the%20prison%20HS.swf",
     "https://cdn.jsdelivr.net/gh/L-spec875/Host@006bb55ac1ed9e814c139291c2943424711a25d1/games/run3.swf",
+    "terraria.mercurywork.shop/index.html",
+    "http://celeste.r58playz.dev/index.html",
 ];
 
 var flashgames = [
@@ -97,6 +101,8 @@ var HMR3_Multifile = [
     "EaglerCraft 1.12 WASM",
     "Bad Time Simulator",
     "Undertale Yellow",
+    "Terraria",
+    "Celeste"
 ]
 
 // Populate dropdown when DOM is ready
