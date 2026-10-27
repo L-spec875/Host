@@ -9,6 +9,8 @@ if (!link) {
 }
 link.href = 'https://waukeganil.infinitecampus.org/favicon.ico';
 
+var dropdown = document.getElementById("gameSelect");
+
 var HMR3_optionText = [
     "Please Choose",
     "Custom URL",
@@ -104,3 +106,9 @@ var HMR3_Multifile = [
     "Terraria",
     "Celeste"
 ]
+for (var i = 0; i < HMR3_optionText.length; i++) {
+    var opt = document.createElement("option");
+    opt.textContent = HMR3_optionText[i];
+    opt.value = HMR3_optionValue [i];
+    dropdown.appendChild(opt);
+}
