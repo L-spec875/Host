@@ -79,25 +79,25 @@ var flashgames = [
     "Stealing the Diamond",
     "Escaping the Prison",
     "Run 3",
-]
+];
 
 var HMR3_nds = [
     "Pokemon Platinum",
     "New Super Mario Bros.",
     "Mario Kart DS"
-]
+];
 
-var HMR3_arcade = []
+var HMR3_arcade = [];
 
-var HMR3_N64 = []
+var HMR3_N64 = [];
 
-var HMR3_NES = []
+var HMR3_NES = [];
 
-var HMR3_SNES = []
+var HMR3_SNES = [];
 
-var HMR3_SEGAMS = []
+var HMR3_SEGAMS = [];
 
-var HMR3_HTML = []
+var HMR3_HTML = [];
 
 var HMR3_Multifile = [
     "EaglerCraft 1.12 WASM",
@@ -105,7 +105,7 @@ var HMR3_Multifile = [
     "Undertale Yellow",
     "Terraria",
     "Celeste"
-]
+];
 for (var i = 0; i < HMR3_optionText.length; i++) {
     var opt = document.createElement("option");
     opt.textContent = HMR3_optionText[i];
