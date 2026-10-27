@@ -9,8 +9,6 @@ if (!link) {
 }
 link.href = 'https://waukeganil.infinitecampus.org/favicon.ico';
 
-var dropdown = document.getElementById("gameSelect");
-
 var HMR3_optionText = [
     "Please Choose",
     "Custom URL",
@@ -112,3 +110,4 @@ for (var i = 0; i < HMR3_optionText.length; i++) {
     opt.value = HMR3_optionValue [i];
     dropdown.appendChild(opt);
 }
+var dropdown = document.getElementById("gameSelect");
